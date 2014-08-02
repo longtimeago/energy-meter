@@ -1,0 +1,1491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="856638be-4c51-4ec7-83fb-1991088723f1" name="Default" comment="" />
+    <ignored path="energy-meter.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel url="file://$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/service" />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="energy-meter" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/energy-meter-impl/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1080" max-vertical-offset="1278">
+              <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/energy-meter-impl/src/main/resources/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="288">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4j.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/energy-meter-impl/src/main/webapp/WEB-INF/classes/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="234">
+              <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RolesAllowedDynamicFeature1.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/resource/RolesAllowedDynamicFeature1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="252">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PowerMeterResourceImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/resource/PowerMeterResourceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="486">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OAuth1ServerFilter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/security/oauth1-server/2.8/oauth1-server-2.8-sources.jar!/org/glassfish/jersey/server/oauth1/OAuth1ServerFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1494" max-vertical-offset="5166">
+              <caret line="83" column="21" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OAuth1Provider.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/security/oauth1-server/2.8/oauth1-server-2.8-sources.jar!/org/glassfish/jersey/server/oauth1/OAuth1Provider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="990" max-vertical-offset="1908">
+              <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/energy-meter-impl/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.44701988" vertical-offset="486" max-vertical-offset="2178">
+              <caret line="42" column="62" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OAuth1ServerFeature1.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/resource/OAuth1ServerFeature1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="252">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MeterServiceResourceImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/resource/MeterServiceResourceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="882" max-vertical-offset="1728">
+              <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/service/resource/MyResource.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/service/resource/EnergyMeterResource.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/webapp/WEB-INF/log4j.properties" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/moxy/MOXyJsonContextResolver.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/service/resource/MyExceptionMapper.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/service/resource/EnergyMeterResourceImpl.java" />
+        <option value="$PROJECT_DIR$/energy-meter-api/src/main/java/com/ppol/meter/api/domain/Meter.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/service/impl/EnergyMeterService.java" />
+        <option value="$PROJECT_DIR$/energy-meter-api/pom.xml" />
+        <option value="$PROJECT_DIR$/energy-meter-api/src/main/java/com/ppol/meter/api/exception/MeterNotFoundException.java" />
+        <option value="$PROJECT_DIR$/energy-meter-api/src/main/java/com/ppol/meter/api/domain/MeterRequest.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/app/EnergyMeterApplicationBinder.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/app/Loggable.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/app/EnergyMeterApplication.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/app/LoggingFilter.java" />
+        <option value="$PROJECT_DIR$/energy-meter-api/src/main/java/com/ppol/meter/api/exception/MeterCreationException.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/service/EnergyMeterService.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/resource/EnergyMeterResourceImpl.java" />
+        <option value="$PROJECT_DIR$/energy-meter-api/src/main/java/com/ppol/meter/api/resource/EnergyMeterResource.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/service/impl/EnergyMeterServiceImpl.java" />
+        <option value="$PROJECT_DIR$/energy-meter-api/src/main/java/com/ppol/meter/api/exception/EnergyMeterException.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/webapp/WEB-INF/classes/log4j.properties" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/resource/MyExceptionMapper.java" />
+        <option value="$PROJECT_DIR$/energy-meter-api/src/main/java/com/ppol/meter/api/exception/ExceptionDto.java" />
+        <option value="$PROJECT_DIR$/energy-meter-api/src/main/java/com/ppol/meter/api/resource/MeterServiceResource.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/service/MeterService.java" />
+        <option value="$PROJECT_DIR$/energy-meter-api/src/main/java/com/ppol/meter/api/exception/MeterRemoveException.java" />
+        <option value="$PROJECT_DIR$/energy-meter-api/src/main/java/com/ppol/meter/api/exception/MeterUpdateException.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/service/impl/MeterServiceImpl.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/resource/MyApplication.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/resource/AccessExceptionMapper.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/resource/MeterServiceResourceImpl.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/resource/OAuth1ServerFeature1.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/resource/RolesAllowedDynamicFeature1.java" />
+        <option value="$PROJECT_DIR$/energy-meter-impl/src/main/webapp/WEB-INF/web.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../devtools/apache-maven-3.2.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="energy-meter" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="energy-meter" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1176" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="energy-meter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="energy-meter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="energy-meter" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="MavenSettings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ppol.meter.resource" />
+      <recent name="com.ppol.meter.api.exception" />
+      <recent name="com.ppol.meter.service.impl" />
+      <recent name="com.ppol.meter.service.resource" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/energy-meter-impl/src/main/java" />
+      <recent name="$PROJECT_DIR$/energy-meter-impl/src/main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/energy-meter-impl/src/main/webapp/WEB-INF/classes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JettyConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="configFiles">
+            <list>
+              <JettyConfigFile>
+                <option name="active" value="true" />
+                <option name="path" value="modules/jmx.mod" />
+              </JettyConfigFile>
+            </list>
+          </option>
+        </data>
+      </server-settings>
+      <predefined_log_file id="Jetty" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Jersey server" type="JettyConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="Jetty 9.1.5.v20140505" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="" show_console_on_std_out="true" show_console_on_std_err="true">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Dcom.sun.management.jmxremote.port=39600 -Dorg.eclipse.jetty.servlet.LEVEL=ALL -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=12346" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="energy-meter-impl:war">
+          <settings DEPLOYMENT_METHOD="contexts" />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <data>
+          <option name="configFiles">
+            <list>
+              <JettyConfigFile>
+                <option name="active" value="true" />
+                <option name="path" value="modules/jmx.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/plus.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="active" value="true" />
+                <option name="path" value="modules/webapp.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/rewrite.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/annotations.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="active" value="true" />
+                <option name="path" value="modules/jmx-remote.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/client.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/websocket.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/jaas.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/resources.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/logging.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/servlets.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/monitor.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/fcgi.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/jndi.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/ipaccess.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/server.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/setuid.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/jaspi.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="active" value="true" />
+                <option name="path" value="modules/servlet.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/security.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/deploy.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/npn.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/stats.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/http.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/jsp.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/debug.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/https.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/lowresources.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/requestlog.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/ext.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/continuation.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/proxy.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/jvm.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/ssl.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/spdy.mod" />
+              </JettyConfigFile>
+              <JettyConfigFile>
+                <option name="path" value="modules/xinetd.mod" />
+              </JettyConfigFile>
+            </list>
+          </option>
+        </data>
+      </server-settings>
+      <predefined_log_file id="Jetty" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="energy-meter-impl:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="false" name="Remote" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="40690" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="40690" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.8" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="energy-meter-impl:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_energy-meter" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="true" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="true" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="40690" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="energy-meter-impl:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Jetty Server.Jersey server" />
+      <item index="1" class="java.lang.String" itemvalue="Remote.Remote" />
+      <item index="2" class="java.lang.String" itemvalue="Tomcat Server.Tomcat" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="856638be-4c51-4ec7-83fb-1991088723f1" name="Default" comment="" />
+      <created>1401008396913</created>
+      <updated>1401008396913</updated>
+      <workItem from="1401008398107" duration="2266000" />
+      <workItem from="1401012041935" duration="14093000" />
+      <workItem from="1401027467879" duration="15907000" />
+      <workItem from="1401126031885" duration="23000" />
+      <workItem from="1401126085281" duration="598000" />
+      <workItem from="1401208520465" duration="597000" />
+      <workItem from="1401219366892" duration="496000" />
+      <workItem from="1401219884008" duration="2184000" />
+      <workItem from="1401255345873" duration="95000" />
+      <workItem from="1401301963674" duration="897000" />
+      <workItem from="1401384868106" duration="880000" />
+      <workItem from="1401477473292" duration="597000" />
+      <workItem from="1401520464339" duration="1849000" />
+      <workItem from="1401530053279" duration="20759000" />
+      <workItem from="1401606991790" duration="12407000" />
+      <workItem from="1401649579813" duration="597000" />
+      <workItem from="1401907873049" duration="5784000" />
+      <workItem from="1401984767126" duration="1627000" />
+      <workItem from="1402075987618" duration="963000" />
+      <workItem from="1402223857907" duration="1859000" />
+      <workItem from="1402425323083" duration="139000" />
+      <workItem from="1402822049339" duration="14654000" />
+      <workItem from="1402854093507" duration="6834000" />
+      <workItem from="1402940043321" duration="1462000" />
+      <workItem from="1403023799898" duration="146000" />
+      <workItem from="1403205653958" duration="32000" />
+      <workItem from="1403205687800" duration="452000" />
+      <workItem from="1404638083614" duration="5368000" />
+      <workItem from="1406967154084" duration="125000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="113690000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1855" height="1176" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2498618" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962963" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44537038" sideWeight="0.5002764" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962963" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17247097" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37416905" sideWeight="0.4997236" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962963" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41944444" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14262024" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="68" y="94" width="1853" height="1147" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962963" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.0-rc1/log4j-core-2.0-rc1-sources.jar!/org/apache/logging/log4j/core/Logger.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-common/2.8/jersey-common-2.8-sources.jar!/org/glassfish/jersey/filter/LoggingFilter.java</url>
+          <line>151</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-common/2.8/jersey-common-2.8-sources.jar!/org/glassfish/jersey/filter/LoggingFilter.java</url>
+          <line>145</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-common/2.8/jersey-common-2.8-sources.jar!/org/glassfish/jersey/filter/LoggingFilter.java</url>
+          <line>130</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/app/LoggingFilter.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/security/oauth1-server/2.8/oauth1-server-2.8-sources.jar!/org/glassfish/jersey/server/oauth1/OAuth1ServerFeature.java</url>
+          <line>137</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/security/oauth1-server/2.8/oauth1-server-2.8-sources.jar!/org/glassfish/jersey/server/oauth1/OAuth1ServerFeature.java</url>
+          <line>130</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="25" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/energy-meter-api/src/main/java/com/ppol/meter/api/domain/MeterRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.8/jersey-server-2.8-sources.jar!/org/glassfish/jersey/server/internal/process/MappableException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3181818" vertical-offset="404" max-vertical-offset="1080">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0/javax.ws.rs-api-2.0-sources.jar!/javax/ws/rs/core/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76814514" vertical-offset="15243" max-vertical-offset="26352">
+          <caret line="924" column="40" selection-start-line="924" selection-start-column="40" selection-end-line="924" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/owlike/genson/0.99/genson-0.99-sources.jar!/com/owlike/genson/convert/BasicConvertersFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="458" max-vertical-offset="2826">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/owlike/genson/0.99/genson-0.99-sources.jar!/com/owlike/genson/convert/ChainedFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1160" max-vertical-offset="2340">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/owlike/genson/0.99/genson-0.99-sources.jar!/com/owlike/genson/Genson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2497" max-vertical-offset="26748">
+          <caret line="196" column="0" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.8/jersey-server-2.8-sources.jar!/org/glassfish/jersey/server/internal/MappableExceptionWrapperInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57238305" vertical-offset="517" max-vertical-offset="1206">
+          <caret line="95" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-common/2.8/jersey-common-2.8-sources.jar!/org/glassfish/jersey/process/internal/Stages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2042" max-vertical-offset="4770">
+          <caret line="172" column="0" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/owlike/genson/0.99/genson-0.99-sources.jar!/com/owlike/genson/reflect/BaseBeanDescriptorProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="890" max-vertical-offset="5976">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.8/jersey-server-2.8-sources.jar!/org/glassfish/jersey/server/ServerRuntime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4387" max-vertical-offset="17802">
+          <caret line="369" column="0" selection-start-line="369" selection-start-column="0" selection-end-line="369" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/lang/NullPointerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="492" max-vertical-offset="954">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/owlike/genson/0.99/genson-0.99-sources.jar!/com/owlike/genson/reflect/PropertyNameResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="3294">
+          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="9503" max-vertical-offset="56916">
+          <caret line="608" column="0" selection-start-line="608" selection-start-column="0" selection-end-line="608" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/owlike/genson/0.99/genson-0.99-sources.jar!/com/owlike/genson/reflect/AbstractBeanDescriptorProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2636" max-vertical-offset="4608">
+          <caret line="170" column="0" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-common/2.8/jersey-common-2.8-sources.jar!/org/glassfish/jersey/message/internal/WriterInterceptorExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3156" max-vertical-offset="3618">
+          <caret line="262" column="0" selection-start-line="262" selection-start-column="0" selection-end-line="262" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/owlike/genson/0.99/genson-0.99-sources.jar!/com/owlike/genson/ext/jaxrs/GensonJsonConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="836" max-vertical-offset="1926">
+          <caret line="92" column="43" selection-start-line="92" selection-start-column="43" selection-end-line="92" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.8/jersey-server-2.8-sources.jar!/org/glassfish/jersey/server/internal/JsonWithPaddingInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="584" max-vertical-offset="2034">
+          <caret line="102" column="0" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/owlike/genson/0.99/genson-0.99-sources.jar!/com/owlike/genson/convert/CircularClassReferenceConverterFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="654" max-vertical-offset="1116">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energy-meter-api/src/main/java/com/ppol/meter/api/resource/MeterResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37741935" vertical-offset="0" max-vertical-offset="620">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energy-meter-api/src/main/java/com/ppol/meter/api/exception/MeterRemoveException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14516129" vertical-offset="0" max-vertical-offset="620">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energy-meter-api/src/main/java/com/ppol/meter/api/exception/ExceptionDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="702">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/service/impl/MeterServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="244" max-vertical-offset="864">
+          <caret line="52" column="89" selection-start-line="52" selection-start-column="89" selection-end-line="52" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/service/MeterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energy-meter-api/src/main/java/com/ppol/meter/api/exception/MeterUpdateException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="324">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0/javax.ws.rs-api-2.0-sources.jar!/javax/ws/rs/container/DynamicFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="21" max-vertical-offset="1314">
+          <caret line="60" column="21" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.8/jersey-server-2.8-sources.jar!/org/glassfish/jersey/server/filter/RolesAllowedDynamicFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="237" max-vertical-offset="1692">
+          <caret line="78" column="39" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/owlike/genson/0.99/genson-0.99-sources.jar!/com/owlike/genson/reflect/ASMCreatorParameterNameResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="616" max-vertical-offset="5472">
+          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.8/jersey-server-2.8-sources.jar!/org/glassfish/jersey/server/model/internal/ResourceMethodInvocationHandlerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="260" max-vertical-offset="1044">
+          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.8/jersey-server-2.8-sources.jar!/org/glassfish/jersey/server/model/internal/AbstractJavaResourceMethodDispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1898" max-vertical-offset="2466">
+          <caret line="178" column="0" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.8/jersey-server-2.8-sources.jar!/org/glassfish/jersey/server/model/internal/JavaResourceMethodDispatcherProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2137" max-vertical-offset="2844">
+          <caret line="203" column="0" selection-start-line="203" selection-start-column="0" selection-end-line="203" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0/javax.ws.rs-api-2.0-sources.jar!/javax/ws/rs/ClientErrorException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="26" max-vertical-offset="3330">
+          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0/javax.ws.rs-api-2.0-sources.jar!/javax/ws/rs/NotAuthorizedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33277312" vertical-offset="234" max-vertical-offset="3312">
+          <caret line="69" column="64" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0/javax.ws.rs-api-2.0-sources.jar!/javax/ws/rs/ext/ExceptionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7579832" vertical-offset="125" max-vertical-offset="720">
+          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/resource/AccessExceptionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energy-meter-api/src/main/java/com/ppol/meter/api/exception/MeterException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06315789" vertical-offset="0" max-vertical-offset="570">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/resource/CommonExceptionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15126051" vertical-offset="0" max-vertical-offset="595">
+          <caret line="11" column="68" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energy-meter-api/src/main/java/com/ppol/meter/api/resource/MeterServiceResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51428574" vertical-offset="216" max-vertical-offset="1062">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/security/oauth1-server/2.8/oauth1-server-2.8.jar!/org/glassfish/jersey/server/oauth1/DefaultOAuth1Provider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1800">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/security/oauth1-server/2.8/oauth1-server-2.8-sources.jar!/org/glassfish/jersey/server/oauth1/OAuth1ServerFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47902572" vertical-offset="42" max-vertical-offset="2448">
+          <caret line="72" column="34" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/security/oauth1-server/2.8/oauth1-server-2.8-sources.jar!/org/glassfish/jersey/server/oauth1/OAuth1ServerProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2436" max-vertical-offset="4176">
+          <caret line="209" column="99" selection-start-line="209" selection-start-column="88" selection-end-line="209" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/security/oauth1-server/2.8/oauth1-server-2.8-sources.jar!/org/glassfish/jersey/server/oauth1/OAuth1ServerFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4" max-vertical-offset="4050">
+          <caret line="83" column="21" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/security/oauth1-server/2.8/oauth1-server-2.8-sources.jar!/org/glassfish/jersey/server/oauth1/OAuth1Provider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="1170">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/security/oauth1-server/2.8/oauth1-server-2.8-sources.jar!/org/glassfish/jersey/server/oauth1/DefaultOAuth1Provider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.580756" vertical-offset="112" max-vertical-offset="5364">
+          <caret line="76" column="54" selection-start-line="76" selection-start-column="54" selection-end-line="76" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/resource/OAuth1ServerFeature1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/resource/RolesAllowedDynamicFeature1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="234">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/resource/PowerMeterResourceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energy-meter-impl/src/main/java/com/ppol/meter/resource/MeterServiceResourceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="1260">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energy-meter-impl/src/main/webapp/WEB-INF/classes/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="234">
+          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energy-meter-impl/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energy-meter-impl/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1278">
+          <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energy-meter-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44701988" vertical-offset="486" max-vertical-offset="2178">
+          <caret line="42" column="62" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>energy-meter-impl:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sass-stdlib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|energy-meter-impl</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

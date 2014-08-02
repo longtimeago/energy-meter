@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="energy-meter-impl:war">
+    <output-path>$PROJECT_DIR$/energy-meter-impl/target</output-path>
+    <root id="archive" name="meter-api.war">
+      <element id="artifact" artifact-name="energy-meter-impl:war exploded" />
+    </root>
+  </artifact>
+</component>
