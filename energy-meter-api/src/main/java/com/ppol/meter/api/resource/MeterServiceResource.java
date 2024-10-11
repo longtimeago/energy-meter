@@ -1,9 +1,9 @@
-package com.ppol.meter.api.resource;
+package com.lngtmg.meter.api.resource;
 
 
-import com.ppol.meter.api.domain.Meter;
-import com.ppol.meter.api.domain.MeterRequest;
-import com.ppol.meter.api.exception.MeterUpdateException;
+import com.lngtmg.meter.api.domain.Meter;
+import com.lngtmg.meter.api.domain.MeterRequest;
+import com.lngtmg.meter.api.exception.MeterUpdateException;
 import java.util.Collection;
 import javax.ws.rs.Consumes;
 import javax.ws.rs.DELETE;

@@ -1,4 +1,4 @@
-package com.ppol.meter.api.domain;
+package com.lngtmg.meter.api.domain;
 
 /**
  * Created by ppolishchuk on 5/31/14.

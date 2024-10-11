@@ -1,4 +1,4 @@
-package com.ppol.meter.api.domain;
+package com.lngtmg.meter.api.domain;
 
 /**
  * (c) Swissquote 6/6/14

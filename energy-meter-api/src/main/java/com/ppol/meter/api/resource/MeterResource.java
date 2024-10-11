@@ -1,6 +1,6 @@
-package com.ppol.meter.api.resource;
+package com.lngtmg.meter.api.resource;
 
-import com.ppol.meter.api.domain.Measurement;
+import com.lngtmg.meter.api.domain.Measurement;
 
 /**
  * (c) Swissquote 6/6/14
