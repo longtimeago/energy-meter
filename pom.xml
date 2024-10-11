@@ -12,6 +12,12 @@
         <module>energy-meter-api</module>
     </modules>
 
+
+    <url>https://github.com/longtimeago/energy-meter</url>
+    <description>
+        Just a test for release maven artifact
+    </description>
+
     <properties>
         <project.scm.url>git@github.com:longtimeago/energy-meter.git</project.scm.url>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -22,6 +28,7 @@
         <url>https://github.com/longtimeago/energy-meter</url>
         <tag>HEAD</tag>
     </scm>
+
     <build>
         <plugins>
             <plugin>
@@ -117,4 +124,18 @@
             <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
         </repository>
     </distributionManagement>
+
+    <developers>
+        <developer>
+            <id>longtimeago</id>
+            <name>Paul Polishchuk</name>
+        </developer>
+    </developers>
+    <licenses>
+        <license>
+            <name>Apache License 2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
 </project>
