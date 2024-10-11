@@ -1,4 +1,4 @@
-package com.ppol.meter.api.exception;
+package com.lngtmg.meter.api.exception;
 
 public class MeterUpdateException extends MeterException {
 

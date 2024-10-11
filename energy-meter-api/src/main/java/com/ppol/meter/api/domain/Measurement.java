@@ -1,4 +1,4 @@
-package com.ppol.meter.api.domain;
+package com.lngtmg.meter.api.domain;
 
 public class Measurement {
 
