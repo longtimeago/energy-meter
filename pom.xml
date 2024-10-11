@@ -12,8 +12,27 @@
         <module>energy-meter-api</module>
         <module>energy-meter-impl</module>
     </modules>
-  <url>https://github.com/longtimeago/energy-meter</url>
 
+   <properties>
+            <project.scm.url>git@github.com:longtimeago/energy-meter.git</project.scm.url>
+   </properties>
+   <scm>
+        <connection>scm:git:${project.scm.url}</connection>
+        <developerConnection>scm:git:${project.scm.url}</developerConnection>
+        <url>https://github.com/longtimeago/energy-meter</url>
+        <tag>HEAD</tag>
+    </scm>
+<build>
+         <plugins>
+             <plugin>
+                 <artifactId>maven-release-plugin</artifactId>
+                 <version>3.1.1</version>
+                 <configuration>
+                     <scmCommentPrefix>[ci skip]</scmCommentPrefix>
+                 </configuration>
+             </plugin>
+         </plugins>
+</build>
   <profiles>
     <profile>
       <id>release</id>
