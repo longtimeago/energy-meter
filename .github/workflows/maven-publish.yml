@@ -20,18 +20,18 @@ jobs:
           server-password: MAVEN_PASSWORD
           gpg-private-key: ${{ secrets.GPG_SIGNING_KEY }}
           gpg-passphrase: ${{ secrets.GPG_SIGNING_KEY_PASSWORD }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Set release version version
         run: mvn versions:set -DnewVersion=${{ github.event.inputs.tag }} --batch-mode
 
-      - name: Add files with new release version to git
-        run: |
-          git add energy-meter-api/pom.xml pom.xml 
-
-      - uses: qoomon/actions--create-commit@v1
+      - uses: EndBug/add-and-commit@v9
         with:
           message: Release ${{ github.event.inputs.tag }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          add: |
+            - pom.xml
+            - energy-meter-api/pom.xml
+          default_author: github_actions
 
       - name: Create branch and tag for new release
         run: |
@@ -54,14 +54,13 @@ jobs:
       - name: Set next snapshot version
         run: mvn versions:set -DnextSnapshot=true -DnextSnapshotIndexToIncrement=3 --batch-mode
 
-      - name: Add files with new snapshot version to git
-        run: |
-          git add energy-meter-api/pom.xml pom.xml 
-
-      - uses: qoomon/actions--create-commit@v1
+      - uses: EndBug/add-and-commit@v9
         with:
           message: Bump to the next SNAPSHOT
-          token: ${{ secrets.GITHUB_TOKEN }}
+          add: |
+            - pom.xml
+            - energy-meter-api/pom.xml
+          default_author: github_actions
 
       - name: Push new version to Github
         run: |
