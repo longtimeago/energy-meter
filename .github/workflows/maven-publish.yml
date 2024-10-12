@@ -20,7 +20,6 @@ jobs:
           server-password: MAVEN_PASSWORD
           gpg-private-key: ${{ secrets.GPG_SIGNING_KEY }}
           gpg-passphrase: ${{ secrets.GPG_SIGNING_KEY_PASSWORD }}
-          token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Set release version version
         run: mvn versions:set -DnewVersion=${{ github.event.inputs.tag }} --batch-mode
