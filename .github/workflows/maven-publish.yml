@@ -22,7 +22,7 @@ jobs:
           gpg-passphrase: MAVEN_GPG_PASSPHRASE
           
       - name: Set release version version
-        run: mvn versions:set -DnewVersion=${{ github.event.inputs.tag }}
+        run: mvn versions:set -DnewVersion=${{ github.event.inputs.tag }} --batch-mode
 
       - name: Create branch and tag
         run: |
@@ -49,7 +49,7 @@ jobs:
           git checkout origin/master
 
       - name: Set next snapshot version
-        run: mvn versions:set -DnextSnapshot=true -DnextSnapshotIndexToIncrement=3
+        run: mvn versions:set -DnextSnapshot=true -DnextSnapshotIndexToIncrement=3 --batch-mode
 
       - name: Push new version to Github
         run: |
