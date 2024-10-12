@@ -32,8 +32,6 @@ jobs:
 
       - name: Create branch and tag
         run: |
-          git config user.email "lngtmg@gmail.com"
-          git config user.name "Paul Polishchuk"
           git add energy-meter-api/pom.xml pom.xml 
           git commit -m 'Release ${{ github.event.inputs.tag }}'
           git tag -a ${{ github.event.inputs.tag }} -m "Release ${{ github.event.inputs.tag }}"
@@ -49,8 +47,6 @@ jobs:
 
       - name: Push new tag
         run: |
-          git config user.email "lngtmg@gmail.com"
-          git config user.name "Paul Polishchuk"
           git push --tags origin HEAD:master
           git checkout origin/master
 
@@ -59,8 +55,6 @@ jobs:
 
       - name: Push new version to Github
         run: |
-          git config user.email "lngtmg@gmail.com"
-          git config user.name "Paul Polishchuk"
           git add energy-meter-api/pom.xml pom.xml 
           git commit -m "Bump to the next SNAPSHOT"
           git push origin HEAD:master
