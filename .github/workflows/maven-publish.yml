@@ -55,6 +55,7 @@ jobs:
         run: |
           git config user.email "lngtmg@gmail.com"
           git config user.name "Paul Polishchuk"
+          git add energy-meter-api/pom.xml pom.xml 
           git commit -m "Bump to the next SNAPSHOT"
           git push origin HEAD:master
           
