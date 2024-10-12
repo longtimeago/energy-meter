@@ -10,8 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Set up Maven Central Repository
         uses: actions/setup-java@v4
         with:
@@ -20,22 +18,22 @@ jobs:
           server-id: central
           server-username: MAVEN_USERNAME
           server-password: MAVEN_PASSWORD
-          gpg-private-key: ${{ secrets.GPG_SIGNING_KEY }}
-          gpg-passphrase: ${{ secrets.GPG_SIGNING_KEY_PASSWORD }}
+      
+      - name: Import GPG key to sign master push
+        uses: crazy-max/ghaction-import-gpg@v6
+        with:
+          gpg_private_key: ${{ secrets.GPG_SIGNING_KEY }}
+          passphrase: ${{ secrets.GPG_SIGNING_KEY_PASSWORD }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
           
       - name: Set release version version
         run: mvn versions:set -DnewVersion=${{ github.event.inputs.tag }} --batch-mode
 
-      - uses: EndBug/add-and-commit@v9
-        with:
-          message: Release ${{ github.event.inputs.tag }}
-          add: |
-            - pom.xml
-            - energy-meter-api/pom.xml
-          default_author: github_actions
-
-      - name: Create branch and tag for new release
+      - name: Create branch and tag
         run: |
+          git add energy-meter-api/pom.xml pom.xml 
+          git commit -m 'Release ${{ github.event.inputs.tag }}'
           git tag -a ${{ github.event.inputs.tag }} -m "Release ${{ github.event.inputs.tag }}"
           git checkout -b ${{ github.event.inputs.tag }}
         
@@ -55,16 +53,10 @@ jobs:
       - name: Set next snapshot version
         run: mvn versions:set -DnextSnapshot=true -DnextSnapshotIndexToIncrement=3 --batch-mode
 
-      - uses: EndBug/add-and-commit@v9
-        with:
-          message: Bump to the next SNAPSHOT
-          add: |
-            - pom.xml
-            - energy-meter-api/pom.xml
-          default_author: github_actions
-
       - name: Push new version to Github
         run: |
+          git add energy-meter-api/pom.xml pom.xml 
+          git commit -m "Bump to the next SNAPSHOT"
           git push origin HEAD:master
           
       - name: Tag release on Github
