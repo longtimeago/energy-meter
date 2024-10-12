@@ -21,8 +21,17 @@ jobs:
           gpg-private-key: ${{ secrets.GPG_SIGNING_KEY }}
           gpg-passphrase: MAVEN_GPG_PASSPHRASE
           
-      - name: Set version
+      - name: Set release version version
         run: mvn versions:set -DnewVersion=${{ github.event.inputs.tag }}
+
+      - name: Create branch and tag
+        run: |
+          git config user.email "lngtmg@gmail.com"
+          git config user.name "Paul Polishchuk"
+          git commit -m 'Release ${{ github.event.inputs.tag }}'
+          git tag -a ${{ github.event.inputs.tag }} -m "Release ${{ github.event.inputs.tag }}"
+          git checkout -b ${{ github.event.inputs.tag }}
+          git push --set-upstream origin refs/heads/${{ github.event.inputs.tag }}:refs/heads/${{ github.event.inputs.tag }}  
         
       - name: Publish package
         run: mvn -P release --batch-mode deploy -DskipTests
@@ -30,6 +39,23 @@ jobs:
           MAVEN_USERNAME: ${{ secrets.CENTRAL_TOKEN_USERNAME }}
           MAVEN_PASSWORD: ${{ secrets.CENTRAL_TOKEN_PASSWORD }}
           MAVEN_GPG_PASSPHRASE: ${{ secrets.GPG_SIGNING_KEY_PASSWORD }}
+
+      - name: Push new tag
+        run: |
+          git config user.email "lngtmg@gmail.com"
+          git config user.name "Paul Polishchuk"
+          git push --tags origin HEAD:master
+          git checkout origin/master
+
+      - name: Set next snapshot version
+        run: mvn versions:set -DnextSnapshot=true -DnextSnapshotIndexToIncrement=3
+
+      - name: Push new version to Github
+        run: |
+          git config user.email "lngtmg@gmail.com"
+          git config user.name "Paul Polishchuk"
+          git commit -m "Bump to the next SNAPSHOT"
+          git push origin HEAD:master
           
       - name: Tag release on Github
         id: release-snapshot
