@@ -31,6 +31,7 @@ jobs:
       - uses: qoomon/actions--create-commit@v1
         with:
           message: Release ${{ github.event.inputs.tag }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Create branch and tag for new release
         run: |
@@ -60,6 +61,7 @@ jobs:
       - uses: qoomon/actions--create-commit@v1
         with:
           message: Bump to the next SNAPSHOT
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push new version to Github
         run: |
