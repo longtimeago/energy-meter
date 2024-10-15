@@ -69,4 +69,4 @@ jobs:
           tag_name: ${{ github.event.inputs.tag }}
           release_name: ${{ github.event.inputs.tag }} Release
           draft: false
-          prerelease: true
+          prerelease: false
