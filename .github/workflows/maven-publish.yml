@@ -59,14 +59,19 @@ jobs:
           git add energy-meter-api/pom.xml pom.xml 
           git commit -m "Bump to the next SNAPSHOT"
           git push origin HEAD:master
-          
+
+
+      - uses: johnyherangi/create-release-notes@main
+        id: create-release-notes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Tag release on Github
-        id: release-snapshot
         uses: actions/create-release@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ github.event.inputs.tag }}
           release_name: ${{ github.event.inputs.tag }} Release
+          body: ${{ steps.create-release-notes.outputs.release-notes }}
           draft: false
           prerelease: false
