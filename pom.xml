@@ -7,7 +7,7 @@
     <groupId>com.lngtmg.meter</groupId>
     <artifactId>energy-meter</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.15-SNAPSHOT</version>
+    <version>0.0.15</version>
     <modules>
         <module>energy-meter-api</module>
     </modules>
