@@ -40,7 +40,7 @@ public interface MeterServiceResource {
      */
     @GET
     @Path("{id}")
-    @Produces({ MediaType.APPLICATION_XML, MediaType.TEXT_PLAIN })
+    @Produces({MediaType.APPLICATION_XML, MediaType.TEXT_PLAIN})
     public Meter getMeter(@PathParam("id") Long id, @Context UriInfo uriInfo);
 
     @POST
@@ -50,9 +50,10 @@ public interface MeterServiceResource {
 
     /**
      * Update existing {@code Meter}
+     *
      * @param id
-     * @throws MeterUpdateException if no meter were found by id
      * @return Meter
+     * @throws MeterUpdateException if no meter were found by id
      */
     @PUT
     @Path("{id}")

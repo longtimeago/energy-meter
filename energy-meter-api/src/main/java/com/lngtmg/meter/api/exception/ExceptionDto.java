@@ -6,7 +6,8 @@ public class ExceptionDto {
 
     private String className;
 
-    public ExceptionDto() {}
+    public ExceptionDto() {
+    }
 
     public ExceptionDto(final String message, final String className) {
         this.message = message;

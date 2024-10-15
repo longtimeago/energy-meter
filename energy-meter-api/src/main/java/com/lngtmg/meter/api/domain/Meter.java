@@ -4,7 +4,7 @@ public class Meter {
 
     private long id;
     private String name;
-	private MeterType meterType;
+    private MeterType meterType;
 
     public Meter() {
     }
@@ -12,7 +12,7 @@ public class Meter {
     public Meter(final long id, final String name, final MeterType meterType) {
         this.id = id;
         this.name = name;
-		this.meterType = meterType;
+        this.meterType = meterType;
     }
 
     public long getId() {
@@ -31,20 +31,20 @@ public class Meter {
         this.name = name;
     }
 
-	public MeterType getMeterType() {
-		return meterType;
-	}
+    public MeterType getMeterType() {
+        return meterType;
+    }
 
-	public void setMeterType(MeterType meterType) {
-		this.meterType = meterType;
-	}
+    public void setMeterType(MeterType meterType) {
+        this.meterType = meterType;
+    }
 
-	@Override
-	public String toString() {
-		return "Meter{" +
-				"id=" + id +
-				", name='" + name + '\'' +
-				", meterType=" + meterType +
-				'}';
-	}
+    @Override
+    public String toString() {
+        return "Meter{" +
+            "id=" + id +
+            ", name='" + name + '\'' +
+            ", meterType=" + meterType +
+            '}';
+    }
 }

@@ -6,5 +6,5 @@ package com.lngtmg.meter.api.domain;
  * @author ppolishchuk
  */
 public enum MeterType {
-	POWER, WATER;
+    POWER, WATER;
 }
