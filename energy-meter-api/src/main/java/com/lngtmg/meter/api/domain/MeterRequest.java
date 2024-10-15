@@ -6,11 +6,11 @@ package com.lngtmg.meter.api.domain;
 public class MeterRequest {
 
     private String name;
-	private MeterType meterType;
+    private MeterType meterType;
 
     public MeterRequest(final String name, final MeterType meterType) {
         this.name = name;
-		this.meterType = meterType;
+        this.meterType = meterType;
     }
 
     public String getName() {
@@ -21,11 +21,11 @@ public class MeterRequest {
         this.name = name;
     }
 
-	public MeterType getMeterType() {
-		return meterType;
-	}
+    public MeterType getMeterType() {
+        return meterType;
+    }
 
-	public void setMeterType(MeterType meterType) {
-		this.meterType = meterType;
-	}
+    public void setMeterType(MeterType meterType) {
+        this.meterType = meterType;
+    }
 }

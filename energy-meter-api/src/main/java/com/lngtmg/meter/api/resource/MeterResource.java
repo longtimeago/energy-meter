@@ -9,5 +9,5 @@ import com.lngtmg.meter.api.domain.Measurement;
  */
 public interface MeterResource {
 
-	Measurement getMeasurement();
+    Measurement getMeasurement();
 }
