@@ -61,17 +61,6 @@ jobs:
           git push origin HEAD:master
 
 
-      - uses: johnyherangi/create-release-notes@main
-        id: create-release-notes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Tag release on Github
-        uses: actions/create-release@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: ncipollo/release-action@v1
         with:
-          tag_name: ${{ github.event.inputs.tag }}
-          release_name: ${{ github.event.inputs.tag }} Release
-          body: ${{ steps.create-release-notes.outputs.release-notes }}
-          draft: false
-          prerelease: false
+          generateReleaseNotes: true
