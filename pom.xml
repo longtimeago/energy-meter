@@ -7,7 +7,7 @@
     <groupId>com.lngtmg.meter</groupId>
     <artifactId>energy-meter</artifactId>
     <packaging>jar</packaging>
-    <version>0.0.18</version>
+    <version>0.0.19</version>
 
     <name>Just a test for release maven artifact</name>
 
