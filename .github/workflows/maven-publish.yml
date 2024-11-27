@@ -33,7 +33,7 @@ jobs:
 
       - name: Create branch and tag
         run: |
-          git add energy-meter-api/pom.xml pom.xml 
+          git add pom.xml 
           git commit -m 'Release ${{ github.event.inputs.tag }}'
           git tag -a ${{ github.event.inputs.tag }} -m "Release ${{ github.event.inputs.tag }}"
           git checkout -b ${{ github.event.inputs.tag }}
@@ -56,7 +56,7 @@ jobs:
 
       - name: Push new version to Github
         run: |
-          git add energy-meter-api/pom.xml pom.xml 
+          git add pom.xml 
           git commit -m "Bump to the next SNAPSHOT"
           git push origin HEAD:master
 
