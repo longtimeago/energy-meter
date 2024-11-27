@@ -71,6 +71,7 @@
                             <publishingServerId>central</publishingServerId>
                             <tokenAuth>true</tokenAuth>
                             <autoPublish>false</autoPublish>
+                            <deploymentName>${groupId}:${artifactId}:${version}</deploymentName>
                         </configuration>
                     </plugin>
                     <plugin>
